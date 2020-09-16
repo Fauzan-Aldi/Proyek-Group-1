@@ -69,6 +69,7 @@
     line-height: 20px;
   }
   .main-article-left p {
+    width: 100%;
     font-size: 14px;
     line-height: 20px;
   }
