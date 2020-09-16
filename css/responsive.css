@@ -69,7 +69,8 @@
   }
   .main-article-left p {
     width: 100%;
-
+    font-size: 5vw;
+    line-height: 3vw;
   }
  
   .cardteam {
