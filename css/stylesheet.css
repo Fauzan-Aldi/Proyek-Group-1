@@ -109,8 +109,8 @@ a, li {
   width: 100%;
 }
 .main-article-container {
+  background-color: green;
   width: 90%;
-  height: 50vw;
   margin: auto;
   display: flex;
   justify-content: center;
@@ -118,7 +118,8 @@ a, li {
 }
 .main-article-left {
   font-family: monospace;
-  width: 50%;
+  background-color: red;
+  width: 50vw;
   padding-left: 15%;
 }
 .main-article-left h1 {
@@ -126,7 +127,7 @@ a, li {
   margin-bottom: 2vw;
 }
 .main-article-left p {
-  width: 70%;
+  width: 25vw;
   font-size: 1.5vw;
   line-height: 2vw;
 }
